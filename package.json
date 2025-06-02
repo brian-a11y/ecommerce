@@ -1,6 +1,12 @@
 {
-  "name": "ecommerce";
+  "name": "ecommerce",
+  "version": "1.0.0",
+  "description": "An ecommerce app",
+  "main": "index.js",
   "scripts": {
-    "build": " babel src -d lib",
+    "build": "babel src -d lib",
     "test": "jest"
-  }
+  },
+  "author": "Your Name",
+  "license": "MIT"
+}
