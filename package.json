@@ -7,6 +7,6 @@
     "build": "babel src -d lib",
     "test": "jest"
   },
-  "author": "Your Name",
+  "author": "Brian Hubert",
   "license": "MIT"
 }
